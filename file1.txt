@@ -1,4 +1,5 @@
 test file 1
 second line
 third line
-fourth lineyet another new line\n
+fourth line
+yet another new line
