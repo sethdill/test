@@ -1,9 +1,9 @@
 test file 1
 second line
 third line
-=========
+
 added blank line above and below
-=========
+
 fourth line
 -----
 yet another new line
