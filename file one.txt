@@ -2,7 +2,7 @@ test file 1
 second line
 third line
 
-added blank line above and below
+changed the text of this line
 
 fourth line
 -----
