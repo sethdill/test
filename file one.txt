@@ -1,10 +1,4 @@
-test file 1
-second line
-third line
-
-changed the text of this line
-
-fourth line
------
-yet another new line
-six!
+Now that the file is back to it's pre-stash state
+I'm making another change.
+I'll add this one too
+then attempt to apply the stash.
